@@ -1,0 +1,13 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #020617;
+  color: #e5e7eb;
+  font-family: "Inter", system-ui, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
