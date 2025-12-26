@@ -97,3 +97,6 @@ npm run dev
 5. Open browser and visit:
 
 http://localhost:5173
+
+## Live Link
+https://sakthi-namlatech-apitask.netlify.app/
